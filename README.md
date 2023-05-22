@@ -11,8 +11,17 @@
 ....
 
 ## nodejs backend
+System Requirements
+Node.js 16.8.0 or newer
 
-....
+First launch
+Open terminal
+Change directory `cd /"nodejs backend"`
+Install dependencies `npm install express`
+Run `npm run index.js`
+
+Second launch and others
+Run `npm run index.js`
 
 ## database
 
