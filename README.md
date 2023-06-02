@@ -7,8 +7,18 @@
 ....
 
 ## golang backend
+System Requirements
+-
 
-....
+First launch
+Download golang via https://go.dev/
+and install extension Go for VS Code
+Restart VS Code
+Open terminal
+Change directory `cd /"golang backend"`
+Run `go run server.go`
+To see results go to `localhost:8080`
+
 
 ## nodejs backend
 System Requirements
