@@ -12,7 +12,8 @@ System Requirements
 
 First launch
 Download golang via https://go.dev/
-and install extenstion Go for VS Code
+and install extension Go for VS Code
+Restart VS Code
 Open terminal
 Change directory `cd /"golang backend"`
 Run `go run server.go`
