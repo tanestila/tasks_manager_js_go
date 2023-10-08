@@ -21,6 +21,8 @@
     "prisma": "^5.4.1",
     "ts-node": "^10.9.1",
     "ts-node-dev": "^2.0.0",
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "eslint": "^8.41.0",
+    "eslint-config-google": "^0.14.0"
   }
 }
